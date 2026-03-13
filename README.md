@@ -18,7 +18,13 @@
 
 <img align="right" src="https://github.com/aridanemartin/aridanemartin/blob/main/Ari2.1.jpg" width="350">
 
-My name is Mohamed Abolyazeed. I am a dedicated student in Computer Science and Information Technology, my journey began with mastering front-end development, creating creative and user-friendly interfaces. My passion soon expanded to the ever-evolving field of Information Security, driven by the constant emergence of new digital threats. Recently, I have been focusing on Cyber Security, especially in penetration testing, CCNA, Network Security, operating systems, Encryption, Decryption, and Data Protection. I'm committed to excelling in this challenging, exciting, and rewarding path, always striving for success in safeguarding digital environments.
+I am a Computer Science and Information Technology student with a strong interest in building secure and scalable backend systems. I specialize in Backend Development using Node.js and NestJS, focusing on designing RESTful APIs, microservices architecture, and reliable backend services.
+
+My experience includes working with technologies such as Docker, NATS messaging, MongoDB, and AWS S3, along with implementing secure authentication systems using JWT and role-based access control.
+
+Alongside backend development, I have a strong interest in Cyber Security and Penetration Testing, with knowledge in network security, vulnerability assessment, and secure coding practices.
+
+I enjoy working on real-world projects, collaborating with teams, and building systems that are both scalable and secure. My goal is to continue developing my expertise in backend engineering and security-focused system design while contributing to impactful technology solutions.
 
 
 ### Languages and Tools:

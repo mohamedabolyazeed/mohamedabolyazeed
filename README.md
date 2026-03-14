@@ -52,3 +52,12 @@ I enjoy working on real-world projects, collaborating with teams, and building s
     <a href="https://www.instagram.com/elzoz8083/" target=_blank><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/elzoz8083/" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
+  
+</div>
+
+---
+
+✨ **Always learning, building, and improving 🚀** 
+

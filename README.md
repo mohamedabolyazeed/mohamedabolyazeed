@@ -14,7 +14,7 @@
 
 
 
-## About me :mortar_board:
+<img align="right" width="100" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif">
 
 <img align="right" src="https://github.com/aridanemartin/aridanemartin/blob/main/Ari2.1.jpg" width="350">
 

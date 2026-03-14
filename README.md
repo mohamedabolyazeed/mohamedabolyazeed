@@ -74,34 +74,33 @@ I also have a strong interest in **Cyber Security and Penetration Testing**, foc
 
 ---
 
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/mohamed-abolyazeed-246a78255/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
-</a>
-
-<a href="https://github.com/mohamedabolyazeed22">
-<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github">
-</a>
-
-<a href="https://www.facebook.com/mohamed.aboelroshdy.3">
-<img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook">
-</a>
-
-<a href="https://www.instagram.com/elzoz8083/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram">
-</a>
-
-</p>
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
   
 </div>
+
+---
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mohamed-abolyazeed-hashem-139ba0358/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
+</a>
+
+<a href="https://github.com/mohamedabolyazeed">
+<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github">
+</a>
+
+<a href="https://web.facebook.com/mohamed.aboelroshdy.3/">
+<img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook">
+</a>
+
+<a href="https://www.instagram.com/mohamed_abolyazeed/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram">
+</a>
+
+</p>
 
 ---
 

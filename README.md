@@ -2,12 +2,12 @@
 
 <div align="center">
 <h1>Hi 👋, I'm Mohamed Abolyazeed</h1>
-<h3>Backend Developer | Cyber Security Enthusiast</h3>
+<h3>Backend Developer | Jr Penetration tester</h3>
 </div>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&size=35&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=650&height=100&lines=Computer+Science+Student;Backend+Developer;Cyber+Security+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&size=35&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=650&height=100&lines=Backend+Developer;Jr+Penetration+tester;Building+Scalable+Systems" alt="Typing SVG" />
 </a>
 </p>
 

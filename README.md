@@ -99,6 +99,13 @@ I also have a strong interest in **Cyber Security and Penetration Testing**, foc
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
+  
+</div>
+
+---
+
+<div align="center">
 
 💡 **Always learning, building, and improving**
 

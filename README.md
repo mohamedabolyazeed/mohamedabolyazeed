@@ -16,7 +16,7 @@
 
 <img align="right" width="100" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif">
 
-<img align="right" src="https://github.com/aridanemartin/aridanemartin/blob/main/Ari2.1.jpg" width="350">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  About Me
 
 I am a Computer Science and Information Technology student with a strong interest in building secure and scalable backend systems. I specialize in Backend Development using Node.js and NestJS, focusing on designing RESTful APIs, microservices architecture, and reliable backend services.
 
